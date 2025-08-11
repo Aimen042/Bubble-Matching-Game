@@ -2,7 +2,6 @@
 ---
 An interactive and fast-paced browser game where players match bubbles to a target number before time runs out! Built using Node.js for backend setup and Tailwind CSS for a clean, responsive UI.
 
----
 
 📌 Features
 ---
@@ -16,7 +15,6 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 
 📱 Responsive UI – Tailwind CSS ensures the game works well across devices.
 
----
 
 🛠 Tech Stack
 ---
@@ -26,7 +24,6 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 
 > Logic & Interactivity: JavaScript
 
----
 
 🎮 How to Play
 ---
