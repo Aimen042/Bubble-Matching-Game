@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+.comic-sans {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.bubble {
+    cursor: pointer;
+    @apply flex justify-center items-center rounded-full bg-cyan-600 
+           w-14 h-14 my-2 font-bold text-xl hover:bg-cyan-900 transition-colors duration-300;
+}
+
+.scoreboard {
+    @apply bg-white text-black w-14 h-8 flex items-center justify-center rounded;
+}
