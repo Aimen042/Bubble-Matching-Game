@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./src/output.css" rel="stylesheet">
+</head>
+
+<body class="bg-zinc-900 min-h-screen">
+  <h1 class="comic-sans text-3xl sm:text-4xl text-white text-center pt-6 mb-6 px-4">
+    BUBBLE MATCHING GAME
+  </h1>
+
+  <div class="text-white mx-4 sm:mx-10 md:mx-40 rounded-xl overflow-hidden shadow-lg">
+    <div id="gtop" class="bg-cyan-950 px-4 sm:px-6 py-5 flex justify-center">
+      <div class="flex flex-wrap sm:flex-nowrap gap-4 sm:gap-6 md:gap-10 text-base sm:text-lg md:text-xl items-center text-center">
+        <span>Timer</span>
+        <div id="timeval" class="scoreboard">60</div>
+
+        <span>Hit</span>
+        <div id="hitval" class="scoreboard"></div>
+
+        <span>Score</span>
+        <div id="score" class="scoreboard">0</div>
+      </div>
+    </div>
+
+    <div id="gbtm"
+      class="comic-sans bg-cyan-800 px-4 sm:px-8 md:px-10 py-5 flex flex-row flex-wrap gap-3 sm:gap-4 justify-center items-center
+             text-white text-2xl sm:text-3xl min-h-[60vh] sm:min-h-[70vh]">
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
