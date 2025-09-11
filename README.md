@@ -39,8 +39,7 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 
 ## 📸 Preview
 <img width="1683" height="845" alt="image" src="https://github.com/user-attachments/assets/9471e3ae-e7b0-48c7-b101-f63b47c36b52" />
-<img width="797" height="266" alt="image" src="https://github.com/user-attachments/assets/e23f59d2-a018-4713-b4dd-b1e9c48cf3f4" />
-<img width="545" height="152" alt="image" src="https://github.com/user-attachments/assets/00d17da2-b463-40c7-ad1c-c9c1250116ab" />
+
 
 
 
