@@ -1,10 +1,10 @@
-🎯 Bubble Matching Game
----
+# 🎯 Bubble Matching Game
+
 An interactive and fast-paced browser game where players match bubbles to a target number before time runs out! Built using Node.js for backend setup and Tailwind CSS for a clean, responsive UI.
 
 
-📌 Features
----
+## 📌 Features
+
 ⏱ Real-Time Interval – Game updates every 1 second for a dynamic challenge.
 
 🔄 Bubble Refresh – All bubbles regenerate after every correct match.
@@ -16,8 +16,8 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 📱 Responsive UI – Tailwind CSS ensures the game works well across devices.
 
 
-🛠 Tech Stack
----
+## 🛠 Tech Stack
+
 > Backend: Node.js
 
 > Frontend Styling: Tailwind CSS
@@ -25,8 +25,8 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 > Logic & Interactivity: JavaScript
 
 
-🎮 How to Play
----
+## 🎮 How to Play
+
 > A set of bubbles appears on screen, each with a number.
 
 > Click the bubble that matches the target number.
@@ -36,3 +36,7 @@ An interactive and fast-paced browser game where players match bubbles to a targ
 > If incorrect: An alert notifies you of the wrong match.
 
 > The game refreshes every 1 second, so stay quick!
+
+## 📸 Preview
+<img width="1683" height="845" alt="image" src="https://github.com/user-attachments/assets/9471e3ae-e7b0-48c7-b101-f63b47c36b52" />
+
